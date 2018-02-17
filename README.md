@@ -1,13 +1,11 @@
-# README
-## This is the README for your extension "monokai-ocean"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+# Monokai Ocean for [Visual Studio Code](http://code.visualstudio.com)
 
-* Split the editor (`Cmd+\` on OSX or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on OSX or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (OSX) to see a list of Markdown snippets
+> A dark theme for [Visual Studio Code](http://code.visualstudio.com).
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+Font used is Hack from https://github.com/rojiani/Ligaturizer/blob/master/output-fonts/LigaHack-Regular.ttf
 
-**Enjoy!**
+![](https://raw.githubusercontent.com/rofrol/monokai-ocean/master/screenshot.png)
+
+## License
+
+[MIT License](./LICENSE)

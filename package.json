@@ -2,14 +2,28 @@
     "name": "monokai-ocean",
     "displayName": "Monokai Ocean",
     "description": "Monokai with ocean background",
-    "version": "0.0.1",
+    "version": "1.0.0",
     "publisher": "rofrol",
-    "engines": {
-        "vscode": "^1.20.0"
-    },
-    "categories": [
-        "Themes"
-    ],
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/rofrol/monokai-ocean.git"
+	},
+	"bugs": {
+		"url": "https://github.com/rofrol/monokai-ocean/issues"
+	},
+	"engines": {
+		"vscode": "^1.20.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"keywords": [
+		"monokai",
+        "ocean",
+		"dark",
+		"theme",
+		"color-theme"
+	],
     "contributes": {
         "themes": [
             {
