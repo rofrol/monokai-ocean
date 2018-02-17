@@ -1,0 +1,23 @@
+{
+    "name": "monokai-ocean",
+    "displayName": "Monokai Ocean",
+    "description": "Monokai with ocean background",
+    "version": "0.0.1",
+    "publisher": "rofrol",
+    "engines": {
+        "vscode": "^1.20.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "monokai-ocean",
+                "uiTheme": "vs-dark",
+                "path": "./themes/monokai-ocean-color-theme.json"
+            }
+        ]
+    }
+}
+
