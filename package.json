@@ -4,6 +4,8 @@
     "description": "Monokai with ocean background",
     "version": "1.0.0",
     "publisher": "rofrol",
+	"icon": "icon.png",
+	"homepage": "https://github.com/rofrol/monokai-ocean",
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/rofrol/monokai-ocean.git"
@@ -27,7 +29,7 @@
     "contributes": {
         "themes": [
             {
-                "label": "monokai-ocean",
+                "label": "Monokai Ocean",
                 "uiTheme": "vs-dark",
                 "path": "./themes/monokai-ocean-color-theme.json"
             }
